@@ -1,0 +1,6 @@
+Hello 
+There are correctly working on Portfolio6
+
+--Adding more line to this text file--
+
+1. Version control is good 
