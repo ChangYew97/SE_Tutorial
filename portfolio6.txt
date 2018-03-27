@@ -3,4 +3,6 @@ There are correctly working on Portfolio6
 
 --Adding more line to this text file--
 
-1. Version control is good 
+1. Version control is good, said Juan
+2. Write message for each commit
+3. Don't forget to configure your name & email, said James
